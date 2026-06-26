@@ -14,7 +14,7 @@ echo <<<HTML
     <p>Your goal is to pop <code>alert()</code>, <code>confirm()</code> or <code>prompt()</code> to prove Javascript execution.</p>
     $content
     <hr>
-    <p class="text-muted">XSS Labs - Built with ❤️ by Rezy Dev/p>
+    <p class="text-muted">XSS Labs - Built with ❤️ by Rezy Dev</p>
     <a href="index.php" class="btn btn-secondary mt-2">Back to Home</a>
   </div>
 </body>
