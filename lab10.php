@@ -11,7 +11,7 @@ layout('Lab 10: Reflected XSS in JS Context with Basic Filtering', <<<HTML
   <button class="btn btn-primary">Submit</button>
 </form>
 <script>
-  let data = "$input";
+  let data = `$input`;
   console.log("User input:", data);
 </script>
 HTML);
